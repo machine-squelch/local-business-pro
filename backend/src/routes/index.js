@@ -1,7 +1,6 @@
 const express = require('express');
 const router = express.Router();
 
-// Import route modules
 const authRoutes = require('./auth');
 const businessRoutes = require('./business');
 const locationRoutes = require('./location');
@@ -10,7 +9,6 @@ const designRoutes = require('./design');
 const automationRoutes = require('./automation');
 const integrationRoutes = require('./integration');
 
-// Mount routes
 router.use('/auth', authRoutes);
 router.use('/businesses', businessRoutes);
 router.use('/locations', locationRoutes);
