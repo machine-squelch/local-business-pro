@@ -9,7 +9,7 @@ import reviewIntegrationService from '../hooks/reviewIntegrationService';
 class ApiConnector {
   constructor() {
     // Set up axios defaults
-    axios.defaults.baseURL = process.env.REACT_APP_API_URL || '/api';
+    axios.defaults.baseURL = import.meta.env.VITE_API_URL || '/api';
     
     // Add request interceptor for authentication
     axios.interceptors.request.use(
@@ -43,8 +43,8 @@ class ApiConnector {
   // Initialize all external services
   async initializeServices() {
     try {
-      await adobeExpressService.initialize();
-      console.log('Adobe Express SDK initialized successfully');
+     //await adobeExpressService.initialize();
+      //console.log('Adobe Express SDK initialized successfully');
     } catch (error) {
       console.error('Failed to initialize Adobe Express SDK:', error);
     }
