@@ -1,3 +1,4 @@
+const analyticsEngine = require("../services/analyticsEngine");
 const Business = require('../models/business');
 const Location = require('../models/location');
 const Design = require('../models/design');
@@ -354,6 +355,9 @@ exports.getBusinessAnalytics = async (req, res) => {
 
     // Get designs
     const designs = await Design.find({ business: req.params.id });
+    // --- Analytics Engine Integration ---
+    // Get deeper insights from our custom analytics engine
+    const deepAnalytics = analyticsEngine.process(designs);
     
     // Calculate analytics
     const analytics = {
@@ -364,6 +368,7 @@ exports.getBusinessAnalytics = async (req, res) => {
       totalClicks: 0,
       totalConversions: 0,
       mostPopularDesigns: []
+      ...deepAnalytics, // Merge deep analytics into the response
     };
     
     // Process designs

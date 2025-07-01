@@ -1,0 +1,57 @@
+{"level":"info","message":"LocalBrand Pro server running on port 5000","service":"localbrand-pro-api","timestamp":"2025-06-30 04:46:34"}
+{"level":"info","message":"Environment: production","service":"localbrand-pro-api","timestamp":"2025-06-30 04:46:34"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"localbrand-pro-api","timestamp":"2025-06-30 04:49:35"}
+{"level":"info","message":"LocalBrand Pro server running on port 5000","service":"localbrand-pro-api","timestamp":"2025-06-30 04:49:35"}
+{"level":"info","message":"Environment: production","service":"localbrand-pro-api","timestamp":"2025-06-30 04:49:35"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"localbrand-pro-api","timestamp":"2025-06-30 04:50:11"}
+{"level":"info","message":"LocalBrand Pro server running on port 5000","service":"localbrand-pro-api","timestamp":"2025-06-30 04:50:11"}
+{"level":"info","message":"Environment: production","service":"localbrand-pro-api","timestamp":"2025-06-30 04:50:11"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"localbrand-pro-api","timestamp":"2025-06-30 04:55:53"}
+{"level":"info","message":"LocalBrand Pro server running on port 5000","service":"localbrand-pro-api","timestamp":"2025-06-30 04:59:45"}
+{"level":"info","message":"Environment: production","service":"localbrand-pro-api","timestamp":"2025-06-30 04:59:45"}
+{"level":"info","message":"GET /api - ::1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:15:06"}
+{"level":"info","message":"GET /favicon.ico - ::1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:15:07"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"localbrand-pro-api","timestamp":"2025-06-30 05:35:03"}
+{"level":"info","message":"LocalBrand Pro server running on port 5000","service":"localbrand-pro-api","timestamp":"2025-06-30 05:54:28"}
+{"level":"info","message":"Environment: production","service":"localbrand-pro-api","timestamp":"2025-06-30 05:54:28"}
+{"level":"info","message":"POST /api/auth/register - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/locations - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/templates?limit=1 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/designs?limit=5 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/auth/me - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/locations - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/designs?limit=5 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/templates?limit=1 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:12"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:35"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:35"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:37"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:37"}
+{"level":"info","message":"GET /api/locations - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:37"}
+{"level":"info","message":"GET /api/designs?limit=5 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:37"}
+{"level":"info","message":"GET /api/templates?limit=1 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:37"}
+{"level":"info","message":"GET /api/templates?limit=1 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:37"}
+{"level":"info","message":"GET /api/locations - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:37"}
+{"level":"info","message":"GET /api/designs?limit=5 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:37"}
+{"level":"info","message":"GET /api/templates - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:41"}
+{"level":"info","message":"GET /api/templates - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:41"}
+{"level":"info","message":"POST /api/auth/login - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/locations - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/designs?limit=5 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/templates?limit=1 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/auth/me - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/locations - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/designs?limit=5 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/templates?limit=1 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:55:58"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:56:17"}
+{"level":"info","message":"GET /api/locations - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:56:17"}
+{"level":"info","message":"GET /api/designs?limit=5 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:56:17"}
+{"level":"info","message":"GET /api/businesses - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:56:17"}
+{"level":"info","message":"GET /api/templates?limit=1 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:56:17"}
+{"level":"info","message":"GET /api/locations - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:56:17"}
+{"level":"info","message":"GET /api/designs?limit=5 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:56:17"}
+{"level":"info","message":"GET /api/templates?limit=1 - ::ffff:127.0.0.1","service":"localbrand-pro-api","timestamp":"2025-06-30 05:56:17"}
+{"level":"info","message":"SIGINT received, shutting down gracefully","service":"localbrand-pro-api","timestamp":"2025-06-30 05:58:14"}

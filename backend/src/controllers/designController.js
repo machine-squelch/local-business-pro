@@ -1,3 +1,4 @@
+const aiDesignEngine = require("../services/aiDesignEngine");
 const Design = require('../models/design');
 const Business = require('../models/business');
 const Location = require('../models/location');
@@ -44,6 +45,11 @@ exports.createDesign = async (req, res) => {
 
     // Create new design
     const design = new Design({
+      // --- AI Engine Integration ---
+      // Let the AI engine suggest a better name or description
+      const AIsuggestions = aiDesignEngine.suggestImprovements({ name, description });
+      name = AIsuggestions.name || name;
+      description = AIsuggestions.description || description;
       name,
       description: req.body.description || '',
       business: businessId,
